@@ -19,8 +19,7 @@
 - [Architectural analysis](#architectural-analysis)
 - [Architectural synthesis](#architectural-synthesis)
 - [Architectural evaluation](#architectural-evaluation)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Thanks](#thanks)
+
 
 
 ## Architectural-analysis
@@ -35,5 +34,3 @@
 
 
 
-
-## Thanks
