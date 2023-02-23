@@ -14,7 +14,7 @@
 
 
 
-## Table of contents
+## File organization
 
 - [Architectural analysis](#architectural-analysis)
 - [Architectural synthesis](#architectural-synthesis)
