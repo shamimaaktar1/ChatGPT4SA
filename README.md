@@ -14,7 +14,7 @@
 
 
 
-## File organization
+## File Organization
 
 - [Architectural Analysis](#architectural-analysis)
 - [Architectural Synthesis](#architectural-synthesis)
