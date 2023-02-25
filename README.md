@@ -16,9 +16,9 @@
 
 ## File organization
 
-- [Architectural analysis](#architectural-analysis)
-- [Architectural synthesis](#architectural-synthesis)
-- [Architectural evaluation](#architectural-evaluation)
+- [Architectural analysis](#architectural-Analysis)
+- [Architectural synthesis](#architectural-Synthesis)
+- [Architectural evaluation](#architectural-Evaluation)
 
 
 
