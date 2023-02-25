@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h3 align="center">Towards Bot in the Loop Software Architecting with ChatGPT</h3>
+<h3 align="center">Towards Human-Bot Collaborative Software Architecting with ChatGPT</h3>
 
 <p align="center">
-  This is the publication package for the paper: "Towards Bot in the Loop Software Architecting with ChatGPT",
+  This is the publication package for the paper: "Towards Human-Bot Collaborative Software Architecting with ChatGPT",
   <br>including the data, scripts and so on (see the description below).
   <br>
   <br>
@@ -22,15 +22,15 @@
 
 
 
-## Architectural-analysis
+## Architectural Analysis
 
 
   
-## Architectural synthesis
+## Architectural Synthesis
 
 
 
-## Architectural evaluation
+## Architectural Evaluation
 
 
 
