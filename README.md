@@ -7,7 +7,7 @@
 <h3 align="center">Towards Human-Bot Collaborative Software Architecting with ChatGPT</h3>
 
 <p align="center">
-  This is the publication package for the paper: "Towards Human-Bot Collaborative Software Architecting with ChatGPT",
+  This is the replication package for the paper: "Towards Human-Bot Collaborative Software Architecting with ChatGPT",
   <br>including the data, scripts and so on (see the description below).
   <br>
   <br>
@@ -16,9 +16,9 @@
 
 ## File organization
 
-- [Architectural analysis](#architectural-Analysis)
-- [Architectural synthesis](#architectural-Synthesis)
-- [Architectural evaluation](#architectural-Evaluation)
+- [Architectural Analysis](#architectural-analysis)
+- [Architectural Synthesis](#architectural-synthesis)
+- [Architectural Evaluation](#architectural-evaluation)
 
 
 
