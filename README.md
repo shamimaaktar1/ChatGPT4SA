@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/shamimaaktar1/ChatGPT4SA/blob/main/CollabArch-Logo.png">
-    <img src="" alt="CollabArch-Logo.png" width="200" height="200">
+  <a href=" ">
+    <img src="" alt="[CollabArch-Logo.png](https://github.com/shamimaaktar1/ChatGPT4SA/blob/main/CollabArch-Logo.png)" width="200" height="200">
   </a>
 </p>
 
