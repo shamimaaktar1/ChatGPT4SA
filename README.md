@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Towards Human-Bot Collaborative Software Architecting with ChatGPT</h3>
+<h3 align="center">Architecting Software-intensive Systems with ChatGPT</h3>
 
 <p align="center">
   This is the replication package for the paper: "Towards Human-Bot Collaborative Software Architecting with ChatGPT",
