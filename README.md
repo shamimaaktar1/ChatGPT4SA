@@ -1,6 +1,6 @@
 <p align="center">
   <a href=" ">
-    <img src="" alt="[CollabArch-Logo.png](./CollabArch-Logo.png)" width="200" height="200">
+    <img src="CollabArch-Logo.png" alt="chatGPT logo" width="200" height="200">
   </a>
 </p>
 
