@@ -1,6 +1,6 @@
 <p align="center">
   <a href=" ">
-    <img src="https://imgur.com/O6AkZte" alt="ChatGPT logo" width="200" height="200">
+    <img src="" alt="ChatGPT logo" width="200" height="200">
   </a>
 </p>
 
