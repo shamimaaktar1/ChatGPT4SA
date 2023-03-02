@@ -26,12 +26,11 @@
 </p>
 
 
-## Experiment replication steps
+## Experiment Replication Steps
 
 - [Architectural Analysis](#architectural-analysis)
 - [Architectural Synthesis](#architectural-synthesis)
 - [Architectural Evaluation](#architectural-evaluation)
-
 
 
 ## Architectural Analysis
