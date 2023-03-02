@@ -82,6 +82,10 @@ This research paper is divided into three main phases.
 
 ## Conducting the Empirical Validations
 
+<p>
+  Empirical validations of collaborative architecture are conducted as a continuation of this study, completing the first two phases and proposing further research.
+</p>
+
 
 
 
