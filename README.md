@@ -11,12 +11,25 @@
   <br>including the data, scripts and so on (see the description below).
   <br>
   <br>
+  
+## File Organization
+
+1. `Case Study on Architecting the CampusBike Application.pdf`
+2. `CollabArch-Logo.png` 
+3. `Towards Human-Bot Collaborative Software Architecting with ChatGPT.pdf` 
 
 ## Demo Video 
-https://www.youtube.com/embed/oYeH4Sgh_YU
+
+<p align="center">
+  <a href="https://www.youtube.com/embed/oYeH4Sgh_YU">
+    <img src="" alt="chatGPT logo" width="200" height="200">
+  </a>
+</p>
 
 
-## File Organization
+
+
+## Experiment replication steps
 
 - [Architectural Analysis](#architectural-analysis)
 - [Architectural Synthesis](#architectural-synthesis)
