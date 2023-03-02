@@ -57,7 +57,7 @@ This phase describes the software architecture story, which is generated based o
 ## Enabling Collaborative Architecting
 
 <p>
-The three tasks of architectural investigation, synthesis, and assessment provide the basis for collaborative architecture. 
+The three tasks of architectural analysis, synthesis, and evalution provide the basis for collaborative architecture. 
 </p>
   
 ### Architectural Analysis
