@@ -29,7 +29,7 @@ To watch the video, click on the picture below:
  
 <p align="center">
     <a href="https://www.youtube.com/embed/oYeH4Sgh_YU">
-   <img src="https://user-images.githubusercontent.com/75358854/222391866-9b18c78f-5db8-4b8e-b450-0ba631ed240e.png" alt="chatGPT logo" width="500" height="600">
+   <img src="https://user-images.githubusercontent.com/75358854/222391866-9b18c78f-5db8-4b8e-b450-0ba631ed240e.png" alt="Architecting with ChatGPT" width="500" height="600">
     </a>
 </p>
 
