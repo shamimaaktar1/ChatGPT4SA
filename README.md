@@ -36,9 +36,28 @@ To watch the video, click on the picture below:
 
 ## Experiment Replication Steps
 
+This research paper is divided into three main sections.
+
+
+- [Developing the Architecture Story](#developing-the-architecture-story)
+- [Enabling Collaborative Architecting](#enabling-collaborative-architecting)
+- [Conducting the Empirical Validations](#conducting-the-empirical-validations)
 - [Architectural Analysis](#architectural-analysis)
 - [Architectural Synthesis](#architectural-synthesis)
 - [Architectural Evaluation](#architectural-evaluation)
+
+## Developing the Architecture Story
+
+<p>
+This section describes the software architecture story, which is generated based on an analysis of the software domain and depicts the operational context of the system or group of operationalized scenarios using a software solution. A prompt is used to provide the architectural story into ChatGPT as a prerequisite for collaborative architecture.
+</p>
+
+
+## Enabling Collaborative Architecting
+
+
+## Conducting the Empirical Validations
+
 
 
 ## Architectural Analysis
