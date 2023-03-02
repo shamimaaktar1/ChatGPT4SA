@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.youtube.com/embed/oYeH4Sgh_YU">
-    <img src="CollabArch-Logo.png" alt="chatGPT logo" width="200" height="200">
+    <img src="https://user-images.githubusercontent.com/75358854/222472343-5e21f0fc-b41a-431a-87c2-56ee7349c84d.png" alt="chatGPT logo" width="200" height="200">
   </a>
 </p>
 
