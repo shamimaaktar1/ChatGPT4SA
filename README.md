@@ -70,7 +70,7 @@ Architectural analysis is managed by the architecture story provided to ChatGPT 
 ### Architectural Synthesis
 
 <p>
-The ASRs are combined in architectural synthesis to produce a model or representation of the architecture that may serve as a reference point and help to visualize the structural (de-)composition and runtime possibilities for the program. Due to a variety of reasons, the architectural model in this study was created using UML class and component diagrams. In particular, component diagrams to show the overall architecture and a class diagram to illustrate the architectural design in more detail.
+The ASRs are combined in architectural synthesis to produce a model or representation of the architecture that may serve as a reference point and help to visualize the structural (de-)composition and runtime possibilities for the program. Due to a variety of reasons, the architectural model in this study was created using UML class and component diagrams.
 </p>
 
 ### Architectural Evaluation
