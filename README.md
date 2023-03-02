@@ -55,6 +55,10 @@ This section describes the software architecture story, which is generated based
 
 
 ## Enabling Collaborative Architecting
+
+<p>
+The three tasks of architectural investigation, synthesis, and assessment provide the basis for collaborative architecture. 
+</p>
   
 ### Architectural Analysis
 
