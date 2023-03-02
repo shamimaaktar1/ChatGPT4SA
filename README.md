@@ -20,7 +20,7 @@
 ## Demo Video 
 
 <p>
-This video explain how we can architect any software system by using ChatGpt. Especially we generated functional specifications, quality attributed, software standards, component diagrams, and class diagram. We also apply some design patterns on class diagram.
+In this video, we'll learn how to use ChatGpt to architect any kind of software system. We produced functional requirements, quality attributes, software standards, component diagrams, and class diagrams in particular. In the class diagram, we also use various design patterns.
 </p>
 To watch the video, click on the picture below:
 <br>
