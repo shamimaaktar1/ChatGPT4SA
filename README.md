@@ -36,7 +36,7 @@ To watch the video, click on the picture below:
 
 ## Experiment Replication Steps
 
-This research paper is divided into three main sections.
+This research paper is divided into three main phases.
 
 
 - [Developing the Architecture Story](#developing-the-architecture-story)
@@ -50,7 +50,7 @@ This research paper is divided into three main sections.
 ## Developing the Architecture Story
 
 <p>
-This section describes the software architecture story, which is generated based on an analysis of the software domain and depicts the operational context of the system or group of operationalized scenarios using a software solution. A prompt is used to provide the architectural story into ChatGPT as a prerequisite for collaborative architecture.
+This phases describes the software architecture story, which is generated based on an analysis of the software domain and depicts the operational context of the system or group of operationalized scenarios using a software solution. A prompt is used to provide the architectural story into ChatGPT as a prerequisite for collaborative architecture.
 </p>
 
 
