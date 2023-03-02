@@ -62,6 +62,9 @@ The three tasks of architectural analysis, synthesis, and evalution provide the 
   
 ### Architectural Analysis
 
+<p>
+Architectural analysis is managed by the architecture story provided to ChatGPT for articulating the ASRs via automatically produced and proposed requirements (by ChatGPT), the manual definition of the requirements (by the architect), or a continual conversation between ChatGPT and the architect to revise (add, delete, or update) the requirements.
+</p>
 
   
 ### Architectural Synthesis
