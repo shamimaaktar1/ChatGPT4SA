@@ -21,12 +21,11 @@
 ## Demo Video 
  
 <p align="center">
-  <div style="width:200px ; height:300px">
+
      
      ![Overview of the Human-Bot Collaborative](https://user-images.githubusercontent.com/75358854/222391866-9b18c78f-5db8-4b8e-b450-0ba631ed240e.png)[(Youtube)](https://www.youtube.com/embed/oYeH4Sgh_YU)
      
 
-  </div>
 </p>
 
 
