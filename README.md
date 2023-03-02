@@ -15,8 +15,7 @@
 ## File Organization
 
 1. `Case Study on Architecting the CampusBike Application.pdf`
-2. `CollabArch-Logo.png` 
-3. `Towards Human-Bot Collaborative Software Architecting with ChatGPT.pdf` 
+2. `Towards Human-Bot Collaborative Software Architecting with ChatGPT.pdf` 
 
 ## Demo Video 
  
