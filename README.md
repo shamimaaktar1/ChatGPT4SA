@@ -41,10 +41,11 @@ This research paper is divided into three main sections.
 
 - [Developing the Architecture Story](#developing-the-architecture-story)
 - [Enabling Collaborative Architecting](#enabling-collaborative-architecting)
+  - [Architectural Analysis](#architectural-analysis)
+  - [Architectural Synthesis](#architectural-synthesis)
+  - [Architectural Evaluation](#architectural-evaluation)
 - [Conducting the Empirical Validations](#conducting-the-empirical-validations)
-- [Architectural Analysis](#architectural-analysis)
-- [Architectural Synthesis](#architectural-synthesis)
-- [Architectural Evaluation](#architectural-evaluation)
+
 
 ## Developing the Architecture Story
 
@@ -54,21 +55,22 @@ This section describes the software architecture story, which is generated based
 
 
 ## Enabling Collaborative Architecting
+  
+### Architectural Analysis
+
+
+  
+### Architectural Synthesis
+
+
+
+### Architectural Evaluation
 
 
 ## Conducting the Empirical Validations
 
 
 
-## Architectural Analysis
-
-
-  
-## Architectural Synthesis
-
-
-
-## Architectural Evaluation
 
 
 
