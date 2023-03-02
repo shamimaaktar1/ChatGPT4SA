@@ -21,16 +21,9 @@
 ## Demo Video 
  
 <p align="center">
-  <div style="width:60px ; height:60px">
-  <a href="https://www.youtube.com/embed/oYeH4Sgh_YU">
-  
-  ![Overview of the Human-Bot Collaborative](https://user-images.githubusercontent.com/75358854/222391866-9b18c78f-5db8-4b8e-b450-0ba631ed240e.png){:height="100px" width="100px"}[(Youtube)](https://www.youtube.com/embed/oYeH4Sgh_YU)
-    
-  
-  </a>   
-    
-   </div>
-
+    <a href="https://www.youtube.com/embed/oYeH4Sgh_YU">
+   <img src="https://user-images.githubusercontent.com/75358854/222391866-9b18c78f-5db8-4b8e-b450-0ba631ed240e.png" alt="chatGPT logo" width="500" height="600">
+    </a>
 </p>
 
 
