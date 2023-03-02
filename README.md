@@ -13,7 +13,8 @@
   
 ## File Organization
 
-1. `Case Study on Architecting the CampusBike Application.pdf`
+1. `Case Study on Architecting the CampusBike Application.pdf` represents the detailed case study on architecting the CampusBike application. It extensively discussed the business case and specifications for the CampusBike, functional specifications, quality attributes, constraints, and tools and technologies (infrastructure, design, implementation, and testing).
+
 2. `Towards Human-Bot Collaborative Software Architecting with ChatGPT.pdf` 
 
 ## Demo Video 
