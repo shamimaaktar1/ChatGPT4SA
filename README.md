@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://www.youtube.com/embed/oYeH4Sgh_YU">
   
-  ![Overview of the Human-Bot Collaborative](https://user-images.githubusercontent.com/75358854/222391866-9b18c78f-5db8-4b8e-b450-0ba631ed240e.png=250x250)[(Youtube)](https://www.youtube.com/embed/oYeH4Sgh_YU)
+  ![Overview of the Human-Bot Collaborative](https://user-images.githubusercontent.com/75358854/222391866-9b18c78f-5db8-4b8e-b450-0ba631ed240e.png)[(Youtube)](https://www.youtube.com/embed/oYeH4Sgh_YU)
     
   
   </a>   
