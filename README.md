@@ -7,10 +7,9 @@
 <h2 align="center">Architecting Software-intensive Systems with ChatGPT</h3>
 
 <p align="left">
-  This is the replication package for the paper: "Towards Human-Bot Collaborative Software Architecting with ChatGPT",
-  <br>including the data, scripts and so on (see the description below).
+  This is the replication package for the paper: "Towards Human-Bot Collaborative Software Architecting with ChatGPT", including the data, scripts and so on (see the description below).
   <br>
-  <br>
+
   
 ## File Organization
 
