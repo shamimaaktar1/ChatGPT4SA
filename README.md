@@ -13,16 +13,16 @@
   
 ## File Organization
 
-1. `Case Study on Architecting the CampusBike Application.pdf` represents the detailed case study on architecting the CampusBike application. It extensively discussed the business case and specifications, functional specifications, quality attributes, constraints, and tools and technologies (infrastructure, design, implementation, and testing) for the CampusBike.
+1. `Case Study on Architecting the CampusBike Application.pdf` describes the case study on architecting the CampusBike application. It provides the business case and specifications, functional specifications, quality attributes, constraints, and tools and technologies (infrastructure, design, implementation, and testing) for the CampusBike application.
 
 2. `Towards Human-Bot Collaborative Software Architecting with ChatGPT.pdf` 
 
 ## Demo Video 
 
 <p>
- In this video, we'll learn how to use ChatGpt to architect any kind of software system. We produced functional requirements, quality attributes, software standards, component diagrams, and class diagrams in particular. In the class diagram, we also use various design patterns.
+ In this video, we show how to use ChatGpt to architect software systems. We produced functional requirements, quality attributes, software standards, component diagrams, and class diagrams in particular. In the class diagram, we also used various design patterns.
 </p>
-To watch the video, click on the picture below:
+To watch the video, please click on the picture below:
 <br>
 <br>
 
