@@ -38,7 +38,6 @@ To watch the video, please click on the picture below:
 
 This research paper is divided into three main phases.
 
-
 - [Developing the Architecture Story](#developing-the-architecture-story)
 - [Enabling Collaborative Architecting](#enabling-collaborative-architecting)
   - [Architectural Analysis](#architectural-analysis)
@@ -47,40 +46,40 @@ This research paper is divided into three main phases.
 - [Conducting the Empirical Validations](#conducting-the-empirical-validations)
 
 
-## Developing the Architecture Story
+### Phase 1: Developing the Architecture Story
 
 <p>
  This phase describes the software architecture story, which is generated based on an analysis of the software domain and depicts the operational context of the system or group of operationalized scenarios using a software solution. A prompt is used to provide the architectural story into ChatGPT as a prerequisite for collaborative architecture.
 </p>
 
 
-## Enabling Collaborative Architecting
+### Phase 2: Enabling Collaborative Architecting
 
 <p>
  The three tasks of architectural analysis, synthesis, and evalution provide the basis for collaborative architecture. 
 </p>
   
-### Architectural Analysis
+#### Architectural Analysis
 
 <p>
  Architectural analysis is managed by the architecture story provided to ChatGPT for articulating the ASRs via automatically produced and proposed requirements (by ChatGPT), the manual definition of the requirements (by the architect), or a continual conversation between ChatGPT and the architect to revise (add, delete, or update) the requirements.
 </p>
 
   
-### Architectural Synthesis
+#### Architectural Synthesis
 
 <p>
  The ASRs are combined in architectural synthesis to produce a model or representation of the architecture that may serve as a reference point and help to visualize the structural (de-)composition and runtime possibilities for the program. Due to a variety of reasons, the architectural model in this study was created using UML class and component diagrams.
 </p>
 
-### Architectural Evaluation
+#### Architectural Evaluation
 
 <p>
  Using scenarios from the architectural story, architectural evaluation compares the synthesized architecture against ASRs. In order to oversee ChatGPT's  evaluation of the architecture, we applied the Software Architecture Analysis Method (SAAM).
 </p>
 
 
-## Conducting the Empirical Validations
+### Phase 3: Conducting the Empirical Validations
 
 <p>
   Empirical validations of collaborative architecture are conducted as a continuation of this study, completing the first two phases and proposing further research.
