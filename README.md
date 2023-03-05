@@ -38,12 +38,12 @@ To watch the video, please click on the picture below:
 
 This research paper is divided into three main phases.
 
-- [Developing the Architecture Story](#developing-the-architecture-story)
-- [Enabling Collaborative Architecting](#enabling-collaborative-architecting)
+- [Phase 1: Developing the Architecture Story](#developing-the-architecture-story)
+- [Phase 2: Enabling Collaborative Architecting](#enabling-collaborative-architecting)
   - [Architectural Analysis](#architectural-analysis)
   - [Architectural Synthesis](#architectural-synthesis)
   - [Architectural Evaluation](#architectural-evaluation)
-- [Conducting the Empirical Validations](#conducting-the-empirical-validations)
+- [Phase 3: Conducting the Empirical Validations](#conducting-the-empirical-validations)
 
 
 ### Phase 1: Developing the Architecture Story
