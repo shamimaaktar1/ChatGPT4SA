@@ -15,12 +15,12 @@
 
 1. `Case Study on Architecting the CampusBike Application.pdf` describes the case study on architecting the CampusBike application. It provides the business case and specifications, functional specifications, quality attributes, constraints, and tools and technologies (infrastructure, design, implementation, and testing) for the CampusBike application.
 
-2. `Towards Human-Bot Collaborative Software Architecting with ChatGPT.pdf` 
+2. `Towards Human-Bot Collaborative Software Architecting with ChatGPT.pdf` decribes the idea and an initial case study of introducing ChatGPT in human-bot collaborative architecting.
 
 ## Demo Video 
 
 <p>
- In this video, we show how to use ChatGpt to architect software systems. Particularly, we developed functional requirements, quality attributes, software standards, component diagrams, and class diagrams. In the class diagram, we also used various design patterns.
+ In this video, we show how to use ChatGpt to architect software systems. Particularly, we developed the functional requirements, quality attributes, software standards, component diagrams, and class diagrams. In the class diagram, we also used various design patterns.
 </p>
 To watch the video, please click on the picture below:
 <br>
@@ -56,7 +56,7 @@ This research paper is divided into three main phases.
 ### Phase 2: Enabling Collaborative Architecting
 
 <p>
- The three tasks of architectural analysis, synthesis, and evalution provide the basis for collaborative architecture. 
+ The three tasks of architectural analysis, synthesis, and evalution provide the basis for collaborative architecting. 
 </p>
   
 #### Architectural Analysis
@@ -82,7 +82,7 @@ This research paper is divided into three main phases.
 ### Phase 3: Conducting the Empirical Validations
 
 <p>
-  Empirical validations of collaborative architecture are conducted as a continuation of this study, completing the first two phases and proposing further research.
+  Empirical validations of collaborative architecting are conducted as a continuation of this study, completing the first two phases and proposing further research.
 </p>
 
 
