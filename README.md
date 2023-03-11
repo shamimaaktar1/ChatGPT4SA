@@ -62,7 +62,7 @@ This research paper is divided into three main phases.
 #### Architectural Analysis
 
 <p>
- Architectural analysis is managed by the architecture story provided to ChatGPT for articulating the ASRs via automatically produced and proposed requirements (by ChatGPT), the manual definition of the requirements (by the architect), or a continual conversation between ChatGPT and the architect to revise (add, delete, or update) the requirements.
+ Architectural analysis is managed by the architecture story provided to ChatGPT for articulating the Architecturally Significant Requirements (ASRs) via automatically produced and proposed requirements (by ChatGPT), the manual definition of the requirements (by the architect), or a continual conversation between ChatGPT and the architect to revise (add, delete, or update) the requirements.
 </p>
 
   
