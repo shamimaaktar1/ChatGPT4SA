@@ -89,6 +89,7 @@ This research paper is divided into three main phases.
 
 <p>
   Empirical validations of collaborative architecting are conducted as a continuation of this study, completing the first two phases and proposing further research.
+  
 </p>
 
 
