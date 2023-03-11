@@ -15,10 +15,10 @@
 
 1. `Case Study on Architecting the CampusBike Application.pdf` describes the case study on architecting the CampusBike application. It provides the business case and specifications, functional specifications, quality attributes, constraints, and tools and technologies (infrastructure, design, implementation, and testing) for the CampusBike application.
 
-2. `Towards Human-Bot Collaborative Software Architecting with ChatGPT.pdf` decribes the idea and an initial case study of introducing ChatGPT in human-bot collaborative architecting.
+2. `Towards Human-Bot Collaborative Software Architecting with ChatGPT.pdf` describes the idea and an initial case study of introducing ChatGPT in human-bot collaborative architecting.
 
 
-3. `Architectural Analysis.pdf` decribes the functional requirements, software development standards, and constraints by considering the following case study “as a step towards maintaining a ‘Green Campus’.
+3. `Architectural Analysis.pdf` describes the functional requirements, software development standards, and constraints by considering the following case study “as a step towards maintaining a ‘Green Campus’.
 
 ## Demo Video 
 
