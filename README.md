@@ -17,6 +17,9 @@
 
 2. `Towards Human-Bot Collaborative Software Architecting with ChatGPT.pdf` decribes the idea and an initial case study of introducing ChatGPT in human-bot collaborative architecting.
 
+
+3. `Architectural Analysis.pdf` Functional Requirements, Software Development Standards, and Constraints by considering the following case study.
+
 ## Demo Video 
 
 <p>
