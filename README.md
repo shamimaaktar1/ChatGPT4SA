@@ -13,13 +13,15 @@
   
 ## File Organization
 
-1. `Case Study on Architecting the CampusBike Application.pdf` describes the case study on architecting the CampusBike application. It provides the business case and specifications, functional specifications, quality attributes, constraints, and tools and technologies (infrastructure, design, implementation, and testing) for the CampusBike application.
+1. `Architectural Analysis.pdf` file outlines and provides a brief description of the functional requirements, software development standards, and constraints for the CampusBike system."
 
-2. `Towards Human-Bot Collaborative Software Architecting with ChatGPT.pdf` describes the idea and an initial case study of introducing ChatGPT in human-bot collaborative architecting.
-  
+2. `Architecture Evaluation.pdf` provides a set of scenarios for SAAM-based evaluation, including prioritized scenarios that are specifically tailored for the CampusBike application. It also includes a comprehensive set of quality attributes that can be used to evaluate the architecture of the CampusBike application.
+
 3. `Architectural Synthesis.pdf` outlines the non-functional requirements related to maintaining a green campus and provides PlantUML scripts for components and class diagrams. It also includes implementation scripts for various design patterns, as well as graphical representations of these patterns.
 
-4. `Architecture Evaluation.pdf` provides a set of scenarios for SAAM-based evaluation, including prioritized scenarios that are specifically tailored for the CampusBike application. It also includes a comprehensive set of quality attributes that can be used to evaluate the architecture of the CampusBike application.
+4. `Case Study on Architecting the CampusBike Application.pdf` describes the case study on architecting the CampusBike application. It provides the business case and specifications, functional specifications, quality attributes, constraints, and tools and technologies (infrastructure, design, implementation, and testing) for the CampusBike application.
+
+5. `Towards Human-Bot Collaborative Software Architecting with ChatGPT.pdf` describes the idea and an initial case study of introducing ChatGPT in human-bot collaborative architecting.
 
 ## Demo Video 
 
