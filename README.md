@@ -19,6 +19,8 @@
   
 3. `Architectural Synthesis.pdf` outlines the non-functional requirements related to maintaining a green campus and provides PlantUML scripts for components and class diagrams. It also includes implementation scripts for various design patterns, as well as graphical representations of these patterns.
 
+4. `Architecture Evaluation.pdf` provides SAAM-based scenarios for evaluating the architecture of the CampusBike application. Additionally, it presents prioritized scenarios and a comprehensive set of quality attributes that aid in evaluating the architecture of CampusBike.
+
 ## Demo Video 
 
 <p>
